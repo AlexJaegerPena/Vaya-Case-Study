@@ -12,6 +12,7 @@ An all-in-one travel companion that helps with travel organization and planning 
 ![User Storys](https://github.com/user-attachments/assets/4568a794-3838-41e1-8646-92e44527b22f)
 ![User Flow Diagram](https://github.com/user-attachments/assets/3eaefa43-f5a1-42fa-8a1c-5ee0d2633e0b)
 ![Moodboard](https://github.com/user-attachments/assets/c7c0ed11-94c3-4b23-b06b-155cbf34cc0b)
+![Style Guide](https://github.com/user-attachments/assets/1a4415f3-26e3-47e1-af68-76a6d2199464)
 ![Wieframe Evolution](https://github.com/user-attachments/assets/674258d7-1349-4f90-8ff4-719bfd05966b)
 ![Paper Prototype](https://github.com/user-attachments/assets/be937e60-ec3c-4ff9-8934-7853af9c999e)
 ![Preference Test](https://github.com/user-attachments/assets/3bf5202b-26dc-45da-a826-d94496ee43f9)
