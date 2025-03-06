@@ -3,6 +3,19 @@ Case study of my travel app Vaya
 
 An all-in-one travel companion that helps with travel organization and planning and offers features such as travel journaling, budget tracking, packing lists, ticket organization, workspace finder, explore function for interesting places in the area and much more.
 
+"Vaya" is a travel app concept designed to meet the unique needs of remote workers and digital nomads.
+
+It is designed to be an all-in-one travel companion that helps with travel organization and planning and offers features such as:
+- travel journaling
+- budget tracking
+- packinglists
+- ticket organization
+- workspace finder
+- explore function for interesting places in the area
+- and much more
+
+This project was created as part of my one-year training to become a Mobile App Developer and represents a comprehensive UX/UI case study that I approached with creativity and dedication.
+
 ![Deckblatt](https://github.com/user-attachments/assets/b4d48b60-a9a1-4977-9e8a-787f624a937a)
 ![Einleitung](https://github.com/user-attachments/assets/06b92627-b9e4-42c3-b7bb-8c1e950db2d0)
 ![Tools](https://github.com/user-attachments/assets/1b012c26-91f0-4762-b14c-27756b472453)
