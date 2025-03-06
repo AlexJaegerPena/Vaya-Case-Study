@@ -1,8 +1,4 @@
 # Vaya App Case Study
-Case study of my travel app Vaya 
-
-An all-in-one travel companion that helps with travel organization and planning and offers features such as travel journaling, budget tracking, packing lists, ticket organization, workspace finder, explore function for interesting places in the area and much more.
-
 "Vaya" is a travel app concept designed to meet the unique needs of remote workers and digital nomads.
 
 It is designed to be an all-in-one travel companion that helps with travel organization and planning and offers features such as:
