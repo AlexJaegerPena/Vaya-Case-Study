@@ -1,5 +1,10 @@
 # Vaya App – UX/UI Case Study
 
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/cc82262b-7916-406d-9bc9-2c135d90140e" />
+
+</br>
+</br>
+
 <details>
 <summary>🇩🇪 Deutsch</summary>
 
