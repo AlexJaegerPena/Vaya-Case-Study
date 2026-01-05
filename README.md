@@ -118,3 +118,7 @@ It is designed as an all-in-one travel companion that helps with travel organiza
 This project was created as part of my one-year training to become a Mobile App Developer and represents a comprehensive UX/UI case study that I approached with creativity and dedication.
 
 </details>
+
+## 👩‍💻 Author
+
+**Alex Jäger Peña**
