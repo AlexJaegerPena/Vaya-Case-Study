@@ -56,6 +56,7 @@ Die App ist als All-in-One-Reisebegleiter konzipiert, der bei der Reiseorganisat
 ## Fazit
 Dieses Projekt entstand im Rahmen meiner einjährigen Weiterbildung zum Mobile App Developer und stellt eine umfassende UX/UI-Case-Study dar, die ich mit viel Kreativität und Engagement umgesetzt habe.
 
-## 👩‍💻 Author
+### 👤 Author
 
-**Alex Jäger Peña**
+**Alexandra Jäger Peña**  
+https://appsbyalex.com
